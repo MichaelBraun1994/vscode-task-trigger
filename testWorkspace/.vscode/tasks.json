@@ -1,0 +1,47 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Echo Test A",
+            "type": "shell",
+            "command": "echo This is test string A",
+            "problemMatcher": []
+        },
+        {
+            "label": "Echo Test B",
+            "type": "shell",
+            "command": "echo This is test string B",
+            "problemMatcher": []
+        },
+        {
+            "label": "Echo Test C",
+            "type": "shell",
+            "command": "echo This is test string C",
+            "problemMatcher": []
+        },
+        {
+            "label": "SubGroupA: Echo Test A",
+            "type": "shell",
+            "command": "echo This is test string A from SubGroupA",
+            "problemMatcher": []
+        },
+        {
+            "label": "SubGroupA: Echo Test B",
+            "type": "shell",
+            "command": "echo This is test string B from SubGroupA",
+            "problemMatcher": []
+        },
+        {
+            "label": "SubGroupA: Echo Test C",
+            "type": "shell",
+            "command": "echo This is test string C from SubGroupA",
+            "problemMatcher": []
+        },
+        {
+            "label": "SubGroupB: Echo Test A",
+            "type": "shell",
+            "command": "echo This is test string A from SubGroupB",
+            "problemMatcher": []
+        }
+    ]
+}
