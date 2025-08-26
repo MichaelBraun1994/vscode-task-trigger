@@ -4,8 +4,7 @@ Task trigger extension to display and trigger tasks from the explorer view.
 
 ## Features
 
-
-\!\[Screenshot\]\(img/screenshot.png\)
+![Screenshot](img/screenshot.png)
 
 ## Extension Settings
 
