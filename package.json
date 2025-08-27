@@ -2,6 +2,8 @@
   "name": "task-trigger",
   "displayName": "Task Trigger",
   "description": "Extension to display and trigger vscode tasks.",
+  "publisher": "MichaelBraun1994",
+  "icon": "img/icon.png",
   "version": "0.0.1",
   "repository": {
     "type": "git",
