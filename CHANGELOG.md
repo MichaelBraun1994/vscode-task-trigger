@@ -2,8 +2,9 @@
 
 All notable changes to the "task-trigger" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.0.1] - 2025-08-27
+### Added
+- Initial release of the extension.
+- Core functionality implemented.
 
 ## [Unreleased]
-
-- Initial release
